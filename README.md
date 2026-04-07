@@ -9,7 +9,7 @@
 * 🎓 B.Tech in Computer Science Engineering
 * 📊 Strong interest in **Data Analytics & Machine Learning**
 * 📈 Skilled in extracting insights from data and building predictive models
-* 🎯 Goal: To become a **Data Analyst / ML Engineer** with a 10+ LPA role
+* 🎯 Goal: To become a **Data Analyst / ML Engineer** 
 
 ---
 
