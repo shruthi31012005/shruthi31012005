@@ -62,7 +62,7 @@
 ## 🚀 What I'm Currently Learning
 
 * Advanced Machine Learning
-* Data Visualization (Power BI / Tableau)
+* Data Visualization (Power BI)
 * SQL for Data Analysis
 * Real-time Data Systems
 
